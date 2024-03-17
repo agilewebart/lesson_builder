@@ -1,0 +1,94 @@
+[
+    {
+        "label": "NUMBER SYSTEMS AND REAL NUMBERS",
+        "id": "0001"
+    },
+    {
+        "label": "POLYNOMIALS",
+        "id": "0002"
+    },
+    {
+        "label": "COORDINATE GEOMETRY",
+        "id": "0003"
+    },
+    {
+        "label": "THREE DIMENSIONAL GEOMETRY",
+        "id": "0004"
+    },
+    {
+        "label": "EUCLID’S GEOMETRY",
+        "id": "0005"
+    },
+    {
+        "label": "LINEAR EQUATIONS IN TWO VARIABLES",
+        "id": "0006"
+    },
+    {
+        "label": "PAIR OF LINEAR EQUATIONS IN TWO VARIABLES",
+        "id": "0007"
+    },
+    {
+        "label": "LINES AND ANGLES",
+        "id": "0008"
+    },
+    {
+        "label": "TRIANGLES",
+        "id": "0009"
+    },
+    {
+        "label": "QUADRILATERALS",
+        "id": "0010"
+    },
+    {
+        "label": "CIRCLES AND AREA OF CIRCLE",
+        "id": "0011"
+    },
+    {
+        "label": "HERON’S FORMULA",
+        "id": "0012"
+    },
+    {
+        "label": "SURFACE AREAS AND VOLUMES",
+        "id": "0013"
+    },
+    {
+        "label": "SET",
+        "id": "0014"
+    },
+    {
+        "label": "PROBABILITY",
+        "id": "0015"
+    },
+    {
+        "label": "STATISTICS",
+        "id": "0016"
+    },
+    {
+        "label": "QUADRATIC EQUATIONS",
+        "id": "0017"
+    },
+    {
+        "label": "ARITHMETIC PROGRESSIONS",
+        "id": "0018"
+    },
+    {
+        "label": "TRIGONOMETRY AND APPLICATIONS",
+        "id": "0019"
+    },
+    {
+        "label": "RELATIONS AND FUNCTIONS",
+        "id": "0020"
+    },
+    {
+        "label": "TRIGONOMETRIC FUNCTIONS",
+        "id": "0021"
+    },
+    {
+        "label": "INVERSE TRIGONOMETRIC FUNCTIONS",
+        "id": "0022"
+    },
+    {
+        "label": "COMPLEX NUMBERS AND QUADRATIC EQUATIONS",
+        "id": "0023"
+    }
+]

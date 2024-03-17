@@ -1,0 +1,18 @@
+[
+    {
+        "label": "\\log",
+        "title": "Log"
+    },
+    {
+        "label": "\\sum_{i=1}^n",
+        "title": "Summation"
+    },
+    {
+        "label": "c = \\pm\\sqrt{a^2 + b^2}",
+        "title": "Squreroot"
+    },
+    {
+        "label": "\\int_0^1",
+        "title": "Integration"
+    }
+]

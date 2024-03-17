@@ -1,0 +1,59 @@
+{
+    "authorList": [
+        "CBSE",
+        "K.C Nag",
+        "S.N Dey"
+    ],
+    "classList": [
+        {
+            "label": "Class-IX",
+            "id": "09"
+        },
+        {
+            "label": "Class-X",
+            "id": "10"
+        },
+        {
+            "label": "Class-XI",
+            "id": "11"
+        },
+        {
+            "label": "Class-XII",
+            "id": "12"
+        }
+    ],
+    "subjectList": [
+        {
+            "label": "Mathemetics",
+            "id": "00"
+        }
+    ],
+    "languageList": [
+        {
+            "label": "English",
+            "id": "en"
+        },
+        {
+            "label": "Bengali",
+            "id": "bn"
+        }
+    ],
+    "difficulty": [
+        {
+            "label": "Easy",
+            "id": "1"
+        },
+        {
+            "label": "Normal",
+            "id": "2"
+        },
+        {
+            "label": "Hard",
+            "id": "3"
+        },
+        {
+            "label": "Extreme",
+            "id": "4"
+        }
+    ]
+}
